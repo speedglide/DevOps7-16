@@ -12,10 +12,10 @@ variables:
   azureSubscription: '87c47127-7938-4b9f-a497-8c1b22736fe5'
   
   # Web app name
-  webAppName: 'test-sh-devops'
+  webAppName: 'sh-devops'
   
   # Environment name
-  environmentName: 'test-sh-devops'
+  environmentName: 'sh-devops'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
